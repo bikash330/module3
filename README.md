@@ -1,1 +1,1 @@
-# module3
+# Module-3-HTML-CSS-JavaScript-Coursera
